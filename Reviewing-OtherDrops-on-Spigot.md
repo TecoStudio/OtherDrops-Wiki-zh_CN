@@ -1,0 +1,5 @@
+![](https://i.imgur.com/VqAub2V.png)
+![](https://i.imgur.com/HuFKHJR.png?1)
+* Do you enjoy using OtherDrops? [Click here to leave a rating](https://www.spigotmc.org/resources/51793/rate?rating=5)!
+* If you really like this plugin, please drop a review (hopefully 5 stars 😉). If you appreciated my help on a question, also consider rating the plugin! I code for free; I don't ask for money, I don't ask for donations, and I sure as heck don't get paid to develop OtherDrops. I do it to help others, and when I am recognized for that help, it means everything.
+* Unfortunately, things can't always be positive. However, the reviews section is meant for actual reviews- not to degrade the plugin, make a feature request, or get help. Please don't leave negative reviews on amazing plugins in an attempt to get the authors' attention! Believe me, we pay attention to every ticket, every issue, every discussion comment, etc. Leaving bad reviews to "get our attention" just makes us less likely to help. If you need help, check the Contact Me section- visit our GitHub issues page, join our Discord Server, or leave a comment on the Discussions page! 
