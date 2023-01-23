@@ -1,34 +1,34 @@
-# Frequently Asked Questions
-OtherDrops is an extremely complicated plugin to learn and adapt to. We hope this FAQ page will help address some of the more commonly asked questions we receive about the plugin.
+# 常见的一些问题
+OtherDrops 是一个极其复杂的插件，需要学习和适应。我们希望此常见问题解答页面将有助于解决我们收到的有关该插件的一些更常见的问题。
 
-Q: How do I install beta builds of OtherDrops?
+Q: 如何安装 OtherDrops 的 beta 版本？
 ---
-A: In order to install Beta-Releases of our plugin, you must join our [Plugin Support Discord Server](discord.gg/eHBxk5q "The best place to receive support for OtherDrops"). Upon joining the server, read and accept our Terms and Conditions. Once you have done so, find the find the Plugin Notification Selection Menu<sup>[[1]](#fn1 "Footnote 1")</sup> in the [#plugin-selection](https://discordapp.com/channels/418432278113550337/604078032671473715 "Plugin Selection") channel. React to the message with the B and head over to the [#beta-updates](https://discordapp.com/channels/418432278113550337/442705812234698752 "Beta Releases") channel. The latest beta releases will have a sticker that says NEW. For 1.12 and below, use Legacy. For all versions greater, use 1.13.
+A: 为了安装本插件的 Beta 版本，您必须加入我们的 [插件支持 Discord 服务器](discord.gg/eHBxk5q "获得 OtherDrops 支持的最佳地点"). 加入服务器后，请阅读并接受我们的条款和条件。 完成后，在 [#plugin-selection](https://discordapp.com) 中找到插件通知选择菜单<sup>[[1]](#fn1 "Footnote 1")</sup> [#plugin-selection](https://discordapp.com/channels/418432278113550337/604078032671473715 "Plugin Selection")频道。使用 B 对消息做出反应并转到 [#beta-updates](https://discordapp.com/channels/418432278113550337/442705812234698752 "Beta Releases") 频道. 最新的测试版将有一个标有 NEW 的标签。 对于 1.12 及以下版本，请使用 Legacy。 对于所有更高版本，请使用 1.13。
 
-Q: Does OtherDrops support items with custom names and lores?
+Q: OtherDrops 是否支持带有自定义名称和传说的物品？
 ---
-A: In short, yes! OtherDrops allows you to drop items with custom lores, and even specify them as tools! In order to do so, follow the following format: `ITEM_ID@~CustomName;lore line 1;line 2;line 3`<sup>[[2]](#fn2 "Footnote 2")</sup> where  
-  - `ITEM_ID` is the item you're specifying
-  - `CustomName` is the name of the item (supports &x color codes)
-  - `lore line 1`, `line 2`, and `line 3` are the lines of lore (supports &x color codes)
+A: 简而言之，是的！ OtherDrops 允许您掉落具有自定义传说的物品，甚至可以将它们指定为工具！ 为此，请遵循以下格式： `ITEM_ID@~CustomName;lore line 1;line 2;line 3`<sup>[[2]](#fn2 "Footnote 2")</sup> where  
+  - `ITEM_ID` 是您指定的项目
+  - `CustomName` 是项目的名称（支持 &x 颜色代码）
+  - `lore line 1`, `line 2`, 以及 `line 3` 是lore的行（支持&x颜色代码）
 
-Q: Can I use custom mobs as drops and targets?
+Q: 我可以使用自定义生物作为掉落物和目标吗？
 ---
-A: You can drop, and specify, certain entities with custom names. You should use the format `ENTITY_TYPE@~CustomName`<sup>[[2]](#fn2 "Footnote 2")</sup> where  
-  - `ENTITY_TYPE` is the entity you're specifying
-  - `CustomName` is the name of the mob (supports &x color codes)
+A: 您可以删除并指定具有自定义名称的某些实体。 你应该使用格式 `ENTITY_TYPE@~CustomName`<sup>[[2]](#fn2 "Footnote 2")</sup> where  
+  - `ENTITY_TYPE` 是您指定的实体
+  - `CustomName` 是生物的名称（支持 &x 颜色代码）
 
-Q: Can I use enchantments on my tool/dropped items?
+Q: 我可以在我的工具/掉落的物品上使用附魔吗？
 ---
-A: You can specify as many enchantments as you want on your items. Use the format `ITEM_ID@!ENCHANTMENT1#LEVEL!ENCHANTMENT2#LEVEL!~CustomNameData`<sup>[[2]](#fn2 "Footnote 2")</sup> where  
-  - `ITEM_ID` is the item you're specifying
-  - `ENCHANTMENT1` and `ENCHANTMENT2` are the enchantments
-  - `LEVEL` is the level of the enchantment. 
+A: 您可以在物品上指定任意数量的附魔。使用格式`ITEM_ID@!ENCHANTMENT1#LEVEL!ENCHANTMENT2#LEVEL!~CustomNameData`<sup>[[2]](#fn2 "Footnote 2")</sup> where  
+  - `ITEM_ID` 是您指定的项目
+  - `ENCHANTMENT1` 和 `ENCHANTMENT2` 均为魔咒ID
+  - `LEVEL` 是魔咒的等级 
 
-When specifying data, use the `!` character to split up new portions of your data (e.g. between different enchantments). The `#` is a separator for the enchantment and level (`ENCHANTMENT#LEVEL`). As noted on footnote 2, the custom name data comes at the end, once all other item data has been specified.
+指定数据时，使用 `!` 字符拆分数据的新部分（例如，在不同的附魔之间）。 `#` 是附魔和等级的分隔符 (`ENCHANTMENT#LEVEL`)。 如脚注 2 所述，一旦指定了所有其他项目数据，自定义名称数据就会出现在最后。
 ***
-<a name="fn1"><sup>1</sup></a> Notification Selection Menu
+<a name="fn1"><sup>1</sup></a> 通知选择菜单
 
-![Plugin Selection Menu](https://i.imgur.com/aFalLWw.jpg)
+![插件选择菜单](https://i.imgur.com/aFalLWw.jpg)
 
-<a name="fn2"><sup>2</sup></a> Make sure that you specify the custom name/lore AFTER all other data has been specified.
+<a name="fn2"><sup>2</sup></a> 确保在指定所有其他数据后指定自定义名称/知识。
