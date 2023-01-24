@@ -5,7 +5,7 @@
 # 目录
 
 ## [**首页**](https://github.com/TecoStudio/OtherDrops-Wiki-zh_CN/wiki/%E9%A6%96%E9%A1%B5)
-## [**常风问题(FAQ)**](https://github.com/TecoStudio/OtherDrops-Wiki-zh_CN/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98(FAQ))
+## [**常见问题(FAQ)**](https://github.com/TecoStudio/OtherDrops-Wiki-zh_CN/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98(FAQ))
 ## **掉落示例和设置**
    * [**基本示例**](https://github.com/TecoStudio/OtherDrops-Wiki-zh_CN/wiki/%E5%9F%BA%E6%9C%AC%E7%A4%BA%E4%BE%8B)
    * [**钱/经验示例**](https://github.com/TecoStudio/OtherDrops-Wiki-zh_CN/wiki/%E9%92%B1:%E7%BB%8F%E9%AA%8C%E7%A4%BA%E4%BE%8B)
